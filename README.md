@@ -110,8 +110,8 @@ Restaurant-Sales-Analytics/
 ├── Restaurant_Data_Cleaning.ipynb
 ├── Restaurant_Sales_Project_Documentation.docx
 ├── Dashboard_Overview.png
-├── Sales_Analysis.png
-└── Customer_Insights.png
+├── Performance_Insights.png
+└── Customer_Sales_Insights.png
 ```
 
 ---
